@@ -1,10 +1,14 @@
-# open the txt file inside the assets/ folder
-# and read the content
-# then return the content
+"""Main Mathser logic."""
+
 DELIMITER = "=========="
 
 
 def get_questions():
+    """Get questions from a source file.
+
+    Returns:
+        The content of the source file
+    """
     with open("assets/questions.txt", "r") as file:
         content = file.read()
     return content
