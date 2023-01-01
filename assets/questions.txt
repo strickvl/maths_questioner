@@ -1,11 +1,11 @@
 ==========
-a,b,c
+3
 What is the correct answer for the following calculation?
 a + b × c
 a+(b*c)
 ==========
-a,b,c,d
-Select the option that is the value of the expression
+4
+What is the value of the expression?
 (a+b)×c+d
 ((a+b)×c)+d
 ==========
