@@ -1,0 +1,11 @@
+==========
+a,b,c
+What is the correct answer for the following calculation?
+a + b × c
+a+(b*c)
+==========
+a,b,c,d
+Select the option that is the value of the expression
+(a+b)×c+d
+((a+b)×c)+d
+==========
