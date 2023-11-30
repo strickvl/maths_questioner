@@ -28,8 +28,7 @@ def parse_questions(questions: list[str]) -> dict[str, str]:
     Returns:
         A list of questions
     """
-    parsed_questions = {}
-    return parsed_questions
+    return {}
 
 
 if __name__ == "__main__":
